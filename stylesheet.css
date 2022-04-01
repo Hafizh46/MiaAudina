@@ -18,6 +18,10 @@ a {
   text-decoration: none;
 }
 
+.clear {
+  clear: left;
+}
+
 /* Ketik code Anda dibawah */
 .container {
   width: 100%;
